@@ -48,14 +48,12 @@ module.exports = {
           filename: 'pages/rentalbook.html',
           title: 'Rental Book',
         },
-// takada         
         maintebook: {
           entry: 'src/main.js',
           template: 'public/pages/index.html',
           filename: 'pages/maintebook.html',
           title: 'Maintenance Book',
         },
-// takada         
         sorry: {
           entry: 'src/main.js',
           template: 'public/pages/index.html',
